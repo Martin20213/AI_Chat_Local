@@ -131,11 +131,9 @@ http://localhost:5173
 }
 ```
 
-## 🗺️ Roadmap / possible extensions
+## 🗺️ Possible extensions
 
-- [ ] `keep_alive` setting to keep the model loaded in memory between requests
 - [ ] Multiple conversation support (`Conversation` model)
-- [ ] Stop-generation button
 - [ ] Markdown / code block rendering in responses
 
 ## 📄 License
